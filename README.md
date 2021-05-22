@@ -17,7 +17,7 @@ class AmazingDeveloper:
         self.devops = ['Docker', 'Ros', 'Heroku'],
         self.tools = ['GIT', 'Pandas', 'Jupyter', 'Firebase']
         
-        self.tech_communities = [['Society of Hispanic Professional Engineers'](https://www.shpe.org/), ['Latinas in Tech'](https://latinasintech.org/), ['Reboot'](https://reboothq.substack.com/), ['Rewriting the Code'](https://rewritingthecode.org/)]
+        self.tech_communities = ['Society of Hispanic Professional Engineers', 'Latinas in Tech', 'Reboot', 'Rewriting the Code']
 
     def __str__(self):
         return self.name
