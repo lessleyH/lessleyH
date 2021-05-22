@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there I'm Lessley 👋
+![](https://raw.githubusercontent.com/lessleyH/lessleyH/master/lessleyH_header.jpeg)
 
-<!--
-**lessleyH/lessleyH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+class lessleyH:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.username = 'lessleyH'
+        self.pronouns = 'She/Her/Hers' 
+        self.name = 'Lessley Hernandez'
+        self.twitter = '@Silver_Pluto'
+        self.linkedIN = 'linkedin.com/in/Lessley'
+        self.code = {
+            'code': ['Python', 'Java', 'MATLAB', 'C', 'Perl', 'Kotlin', 'HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku', 'ROS'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook'],
+            'misc': ['Firebase','GNU/Linux']
+        }
+        self.techCommunities = {
+                        'organizations' = ['SHPE', 'Latinas in Tech', 'Reboot', 'Rewriting the Code']
+                      },
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = lessleyH()
+```
+
+credit to [Thaiane](https://github.com/Thaiane/Thaiane/blob/master/README.md) and [Rafnixg](https://github.com/rafnixg/rafnixg/blob/master/README.md) for the README set up. Thank you!
