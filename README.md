@@ -3,30 +3,28 @@
 
 
 ```python
-class lessleyH:
+class AmazingDeveloper:
 
     def __init__(self):
-        self.username = 'lessleyH'
-        self.pronouns = 'She/Her/Hers' 
+        self.github_username = 'lessleyH'
+        self.pronouns = ['She', 'Her', Hers']
         self.name = 'Lessley Hernandez'
         self.twitter = '@Silver_Pluto'
-        self.linkedIN = 'linkedin.com/in/Lessley'
-        self.code = {
-            'code': ['Python', 'Java', 'MATLAB', 'C', 'Perl', 'Kotlin', 'HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku', 'ROS'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook'],
-            'misc': ['Firebase','GNU/Linux']
-        }
-        self.techCommunities = {
-                        'organizations' = ['SHPE', 'Latinas in Tech', 'Reboot', 'Rewriting the Code']
-                      },
+        self.linkedIN = ['Lessley'](url)
+        
+        # In descending order of expertise
+        self.code =  ['Python', 'Java', 'MATLAB', 'C', 'Perl', 'Kotlin', 'HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap']
+        self.devops = ['Docker', 'Ros', 'Heroku'],
+        self.tools = ['GIT', 'Pandas', 'Jupyter', 'Firebase']
+        
+        self.tech_communities = [['Society of Hispanic Professional Engineers'](https://www.shpe.org/), ['Latinas in Tech'](https://latinasintech.org/), ['Reboot'](https://reboothq.substack.com/), ['Rewriting the Code'](https://rewritingthecode.org/)]
 
     def __str__(self):
         return self.name
 
-
 if __name__ == '__main__':
     me = lessleyH()
+    print(me)
 ```
 
 credit to [Thaiane](https://github.com/Thaiane/Thaiane/blob/master/README.md) and [Rafnixg](https://github.com/rafnixg/rafnixg/blob/master/README.md) for the README set up. Thank you!
