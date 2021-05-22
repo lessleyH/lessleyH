@@ -1,5 +1,5 @@
 ### Hi there I'm Lessley 👋
-![](https://raw.githubusercontent.com/lessleyH/lessleyH/master/lessleyH_header.jpeg)
+![](https://github.com/lessleyH/lessleyH/blob/9fb621b0da80ca6d0cddff73531337a09a2ceaed/lessley_header.jpeg)
 
 
 ```python
