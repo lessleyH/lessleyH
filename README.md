@@ -7,7 +7,7 @@ class AmazingDeveloper:
 
     def __init__(self):
         self.github_username = 'lessleyH'
-        self.pronouns = ['She', 'Her', Hers']
+        self.pronouns = ['She', 'Her', 'Hers']
         self.name = 'Lessley Hernandez'
         self.twitter = '@Silver_Pluto'
         self.linkedIN =   'https://www.linkedin.com/in/lessley/'
