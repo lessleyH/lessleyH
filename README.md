@@ -10,7 +10,7 @@ class AmazingDeveloper:
         self.pronouns = ['She', 'Her', 'Hers']
         self.name = 'Lessley Hernandez'
         self.twitter = '@Silver_Pluto'
-        self.linkedIN =   'https://www.linkedin.com/in/lessley/'
+        self.linkedIN = 'https://www.linkedin.com/in/lessley/'
         
         # In descending order of expertise
         self.code =  ['Python', 'Java', 'MATLAB', 'C', 'Perl', 'Kotlin', 'HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap']
