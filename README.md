@@ -2,9 +2,6 @@
 <p align="center">
   <img <p align="center">
   <img src="https://raw.githubusercontent.com/lessleyH/lessleyH/main/Lessley_hernandez.png" width="850"/>
-</p>
-  />
-</p>
 
 ```python
 class Lessley:
