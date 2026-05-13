@@ -33,7 +33,7 @@ class Lessley:
         self.current_projects = [
             'ERCOT Load Stress Analysis',
             'Weather + Grid Correlation',
-            'Reliability System 
+            'Reliability System,
        
     def __str__(self):
         return self.name
