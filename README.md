@@ -3,22 +3,38 @@
 
 
 ```python
-class AmazingDeveloper:
+class Lessley:
 
     def __init__(self):
-        self.github_username = 'lessleyH'
-        self.pronouns = ['She', 'Her', 'Hers']
-        self.name = 'Lessley Hernandez'
-        self.twitter = '@Silver_Pluto'
         self.linkedIN = 'https://www.linkedin.com/in/lessley/'
-        
-        # In descending order of expertise
-        self.code =  ['Python', 'Java', 'MATLAB', 'C', 'Perl', 'Kotlin', 'HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap']
-        self.devops = ['Docker', 'Ros', 'Heroku'],
-        self.tools = ['GIT', 'Pandas', 'Jupyter', 'Firebase']
-        
-        self.tech_communities = ['Society of Hispanic Professional Engineers', 'Latinas in Tech', 'Reboot', 'Rewriting the Code']
+        self.role = 'Energy Risk Analyst'
+        self.interests = [
+            'Energy Systems',
+            'Grid Reliability',
+            'Forecasting',
+            'AI/ML',
+            'Network Analysis'
+        ]
 
+        self.languages = [
+            'Python',
+            'SQL',
+            'MATLAB'
+        ]
+
+        self.tools = [
+            'Pandas',
+            'Jupyter',
+            'Git',
+            'Power BI',
+            'VS Code'
+        ]
+
+        self.current_projects = [
+            'ERCOT Load Stress Analysis',
+            'Weather + Grid Correlation',
+            'Reliability System 
+       
     def __str__(self):
         return self.name
 
