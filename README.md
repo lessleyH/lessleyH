@@ -34,6 +34,7 @@ class Lessley:
             'ERCOT Load Stress Analysis',
             'Weather + Grid Correlation',
             'Reliability System'
+        ]
        
     def __str__(self):
         return self.name
