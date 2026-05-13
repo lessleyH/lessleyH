@@ -1,13 +1,18 @@
 ### Hi, I'm Lessley 👋
-![](https://github.com/lessleyH/lessleyH/blob/9fb621b0da80ca6d0cddff73531337a09a2ceaed/lessley_header.jpeg)
-
+<p align="center">
+  <img src="https://github.com/lessleyH/lessleyH/blob/9fb621b0da80ca6d0cddff73531337a09a2ceaed/lessley_header.jpeg?raw=true"
+       width="850"
+  />
+</p>
 
 ```python
 class Lessley:
 
     def __init__(self):
+        self.name = 'Lessley Hernandez'
         self.linkedIN = 'https://www.linkedin.com/in/lessley/'
         self.role = 'Energy Risk Analyst'
+
         self.interests = [
             'Energy Systems',
             'Grid Reliability',
@@ -33,14 +38,15 @@ class Lessley:
         self.current_projects = [
             'ERCOT Load Stress Analysis',
             'Weather + Grid Correlation',
-            'Reliability System'
+            'Reliability Systems'
         ]
-       
+
     def __str__(self):
         return self.name
 
+
 if __name__ == '__main__':
-    me = lessleyH()
+    me = Lessley()
     print(me)
 ```
 
