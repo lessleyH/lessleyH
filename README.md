@@ -1,7 +1,8 @@
 ### Hi, I'm Lessley 👋
 <p align="center">
-  <img src="https://github.com/lessleyH/lessleyH/blob/9fb621b0da80ca6d0cddff73531337a09a2ceaed/Lessley_hernandez.png?raw=true"
-       width="850"
+  <img <p align="center">
+  <img src="https://raw.githubusercontent.com/lessleyH/lessleyH/main/Lessley_hernandez.png" width="850"/>
+</p>
   />
 </p>
 
